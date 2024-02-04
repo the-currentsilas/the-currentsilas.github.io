@@ -6,11 +6,11 @@ html {
 }
 @font-face {
     font-family: 'VCR'; /* Give your font a name */
-    src: url('Fonts/vcr.ttf')/* Specify the path to your font files */
+    src: url('../Fonts/vcr.ttf')/* Specify the path to your font files */
     /* Add additional font file formats if needed */
 }
 body {
-    background-image: url('why.png'); /* Replace with the path to your image file */
+    background-image: url('../why.png'); /* Replace with the path to your image file */
 }
 .blog {
     text-align: left;
