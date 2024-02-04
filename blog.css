@@ -1,0 +1,17 @@
+
+html {
+    text-align: center; /* Optional: center the text within the container */
+    font-family: 'VCR';
+    color: white;
+}
+@font-face {
+    font-family: 'VCR'; /* Give your font a name */
+    src: url('Fonts/vcr.ttf')/* Specify the path to your font files */
+    /* Add additional font file formats if needed */
+}
+body {
+    background-color: black; /* Replace with the path to your image file */
+}
+.blog {
+    text-align: left;
+}
